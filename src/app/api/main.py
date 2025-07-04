@@ -8,6 +8,7 @@ origins = [
   "http://localhost:3000",  # Next.js frontend
   "http://127.0.0.1:3000",  # Alternative local frontend
   "https://scrob.nayasinghania.com",  # Production frontend
+  'https://scrobble-quiz.netlify.app"
 ]
 
 app.add_middleware(
